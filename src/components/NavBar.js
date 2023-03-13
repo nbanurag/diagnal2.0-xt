@@ -1,13 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
-import { useNavigate } from "react-router-dom";
 import { setSearch } from "../store/Actions/FecthMoviesAction";
 import "./common.css";
 
 const NavBar = () => {
   const [scroll, setScroll] = useState(false);
   const [showSearch, setShowSearch] = useState(false);
-  const navigate = useNavigate();
 
   const title = "Romantic Comedy";
   const dispatch = useDispatch();
@@ -53,7 +51,7 @@ const NavBar = () => {
   return (
     <nav className={scroll ? "navbar scrolled" : "navbar"}>
       <div className="flex">
-        <div className="py-6 pl-7" onClick={() => navigate("/")}>
+        <div className="py-6 pl-7" >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
