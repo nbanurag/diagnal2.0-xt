@@ -1,0 +1,10 @@
+.App {
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  padding: 90px 30px;
+}
+
+.searchInput {
+}

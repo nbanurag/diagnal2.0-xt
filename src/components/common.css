@@ -1,0 +1,31 @@
+.gridGap {
+    grid-column-gap: 30px;
+    grid-row-gap: 90px;
+}
+
+.grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: #000;
+    transition: all 0.3s ease;
+  }
+  
+  .scrolled {
+    box-shadow: 0 20px 20px rgb(0 0 0 / 100%);
+  }
+  
+  .search {
+    right: 0;
+    position: absolute;  
+  }
+  
