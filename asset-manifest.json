@@ -1,27 +1,25 @@
 {
   "files": {
     "main.css": "/diagnal2.0-xt/static/css/main.eadedc0d.css",
-    "main.js": "/diagnal2.0-xt/static/js/main.b008c76d.js",
+    "main.js": "/diagnal2.0-xt/static/js/main.f53ea817.js",
     "static/css/730.89c345a7.chunk.css": "/diagnal2.0-xt/static/css/730.89c345a7.chunk.css",
-    "static/js/730.78dfc39d.chunk.js": "/diagnal2.0-xt/static/js/730.78dfc39d.chunk.js",
+    "static/js/730.85d3ae3b.chunk.js": "/diagnal2.0-xt/static/js/730.85d3ae3b.chunk.js",
     "static/css/558.89c345a7.chunk.css": "/diagnal2.0-xt/static/css/558.89c345a7.chunk.css",
-    "static/js/558.f5a8bcc2.chunk.js": "/diagnal2.0-xt/static/js/558.f5a8bcc2.chunk.js",
+    "static/js/558.6545761b.chunk.js": "/diagnal2.0-xt/static/js/558.6545761b.chunk.js",
     "static/js/787.ec01e4a9.chunk.js": "/diagnal2.0-xt/static/js/787.ec01e4a9.chunk.js",
-    "static/js/384.fda187ed.chunk.js": "/diagnal2.0-xt/static/js/384.fda187ed.chunk.js",
-    "static/js/260.5474884e.chunk.js": "/diagnal2.0-xt/static/js/260.5474884e.chunk.js",
+    "static/js/89.e1a87781.chunk.js": "/diagnal2.0-xt/static/js/89.e1a87781.chunk.js",
     "index.html": "/diagnal2.0-xt/index.html",
     "main.eadedc0d.css.map": "/diagnal2.0-xt/static/css/main.eadedc0d.css.map",
-    "main.b008c76d.js.map": "/diagnal2.0-xt/static/js/main.b008c76d.js.map",
+    "main.f53ea817.js.map": "/diagnal2.0-xt/static/js/main.f53ea817.js.map",
     "730.89c345a7.chunk.css.map": "/diagnal2.0-xt/static/css/730.89c345a7.chunk.css.map",
-    "730.78dfc39d.chunk.js.map": "/diagnal2.0-xt/static/js/730.78dfc39d.chunk.js.map",
+    "730.85d3ae3b.chunk.js.map": "/diagnal2.0-xt/static/js/730.85d3ae3b.chunk.js.map",
     "558.89c345a7.chunk.css.map": "/diagnal2.0-xt/static/css/558.89c345a7.chunk.css.map",
-    "558.f5a8bcc2.chunk.js.map": "/diagnal2.0-xt/static/js/558.f5a8bcc2.chunk.js.map",
+    "558.6545761b.chunk.js.map": "/diagnal2.0-xt/static/js/558.6545761b.chunk.js.map",
     "787.ec01e4a9.chunk.js.map": "/diagnal2.0-xt/static/js/787.ec01e4a9.chunk.js.map",
-    "384.fda187ed.chunk.js.map": "/diagnal2.0-xt/static/js/384.fda187ed.chunk.js.map",
-    "260.5474884e.chunk.js.map": "/diagnal2.0-xt/static/js/260.5474884e.chunk.js.map"
+    "89.e1a87781.chunk.js.map": "/diagnal2.0-xt/static/js/89.e1a87781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eadedc0d.css",
-    "static/js/main.b008c76d.js"
+    "static/js/main.f53ea817.js"
   ]
 }
